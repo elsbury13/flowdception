@@ -28,11 +28,9 @@
         "Imjoehaines\\Flowder\\Codeception\\Test\\": "tests/"
       }
     },
-    "require-dev": {
-        "phpunit/phpunit": "^5"
-    },
     "require": {
         "imjoehaines/flowder": "^1.0",
-        "codeception/codeception": "^2.1"
+        "codeception/codeception": "4.1.9",
+        "phpunit/phpunit": "^9.5"
     }
 }
